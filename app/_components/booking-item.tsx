@@ -31,7 +31,7 @@ const BookingItem = () => {
           {/* direita */}
           <div className="flex flex-col items-center justify-center border-l-2 border-solid px-5">
             <p className="text-sm">Agosto</p>
-            <p className="text-2xl">05</p>
+            <p className="text-2xl">13</p>
             <p className="text-sm">20:00</p>
           </div>
         </CardContent>

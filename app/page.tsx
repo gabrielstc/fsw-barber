@@ -25,7 +25,7 @@ const Home = async () => {
       <div className="p-5">
         {/* texto */}
         <h2 className="text-xl font-bold">Olá, Gabriel</h2>
-        <p>Segunda-feira, 05 de agosto </p>
+        <p>Terça-feira, 13 de agosto </p>
 
         {/* busca */}
         <div className="mt-6 flex items-center gap-2">
@@ -53,7 +53,7 @@ const Home = async () => {
         {/* banner */}
         <div className="relative mt-6 h-[150px] w-full">
           <Image
-            src="/banner-01.png"
+            src="/Barbearia-Ipanema.jpg.webp"
             alt="Agende com os melhores"
             fill
             className="rounded-xl object-cover"
